@@ -1,12 +1,16 @@
+import os
 import mysql.connector
 import random
+from dotenv import load_dotenv
+
+load_dotenv()
 
 conn = mysql.connector.connect(
-    host='localhost',
-    user='potgon',
-    password='admin1234',
-    database='idioms_db',
-    port=3307
+    host=os.getenv(DB_HOST),
+    user=os.getenv(SPRING_DATASOURCE_USERNAME),
+    password=os.getenv(SPRING_DATASOURCE_PASSWORD),
+    database=os.getenv(MYSQL_DATABASE),
+    port=os.getenv(PYTHON_DB_PORT)
 )
 
 cursor = conn.cursor()
