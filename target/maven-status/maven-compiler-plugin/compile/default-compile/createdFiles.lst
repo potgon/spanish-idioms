@@ -1,0 +1,16 @@
+dev\potgon\spanishIdioms\api\idiom\IdiomService.class
+dev\potgon\spanishIdioms\api\user\UserController.class
+dev\potgon\spanishIdioms\api\idiom\Idiom.class
+dev\potgon\spanishIdioms\api\user\UserRepository.class
+dev\potgon\spanishIdioms\api\guess\GuessRepository.class
+dev\potgon\spanishIdioms\api\guess\Guess.class
+dev\potgon\spanishIdioms\api\user\User$UserBuilder.class
+dev\potgon\spanishIdioms\api\guess\GuessService.class
+dev\potgon\spanishIdioms\api\guess\GuessController.class
+dev\potgon\spanishIdioms\api\user\UserService.class
+dev\potgon\spanishIdioms\api\idiom\Idiom$IdiomBuilder.class
+dev\potgon\spanishIdioms\api\idiom\IdiomRepository.class
+dev\potgon\spanishIdioms\SpanishIdiomsApplication.class
+dev\potgon\spanishIdioms\api\idiom\IdiomController.class
+dev\potgon\spanishIdioms\api\user\User.class
+dev\potgon\spanishIdioms\api\gpt\GPTService.class
