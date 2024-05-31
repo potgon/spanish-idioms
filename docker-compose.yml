@@ -1,0 +1,29 @@
+services:
+  app:
+    image: spanish-idioms-spring
+    ports:
+      - ${SPRING_PORT}
+    environment:
+      SPRING_DATASOURCE_URL: ${SPRING_DATASOURCE_URL}
+      SPRING_DATASOURCE_USERNAME: ${SPRING_DATASOURCE_USERNAME}
+      SPRING_DATASOURCE_PASSWORD: ${SPRING_DATASOURCE_PASSWORD}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      AI_MODEL: ${AI_MODEL}
+      API: ${API}
+    depends_on:
+      - mysql
+
+  mysql:
+    image: 'mysql:latest'
+    volumes:
+      - mysql-data:${DB_DATA_DIR}
+    environment:
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_PASSWORD: ${SPRING_DATASOURCE_PASSWORD}
+      MYSQL_ROOT_PASSWORD: ${SPRING_DATASOURCE_PASSWORD}
+      MYSQL_USER: ${SPRING_DATASOURCE_USERNAME}
+    ports:
+      - ${DATABASE_PORT}
+
+volumes:
+  mysql-data:
