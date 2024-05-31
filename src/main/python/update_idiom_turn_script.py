@@ -2,8 +2,11 @@ import os
 import mysql.connector
 import random
 from dotenv import load_dotenv
+from pathlib import Path
 
-load_dotenv()
+
+env_path = Path(__file__).resolve().parents[2] / '.env'
+load_dotenv(dotenv_path=env_path)
 
 conn = mysql.connector.connect(
     host=os.getenv(DB_HOST),
