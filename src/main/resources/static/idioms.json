@@ -1,0 +1,554 @@
+[
+  {
+    "name": "A buenas horas, mangas verdes."
+  },
+  {
+    "name": "A caballo regalado, no le mires el diente."
+  },
+  {
+    "name": "A cada cerdo le llega su San Martín."
+  },
+  {
+    "name": "A cada puerco le llega su San Martín."
+  },
+  {
+    "name": "A cuentagotas."
+  },
+  {
+    "name": "A cuerpo de rey."
+  },
+  {
+    "name": "A Dios rogando y con el mazo dando."
+  },
+  {
+    "name": "A discreción."
+  },
+  {
+    "name": "A dos velas."
+  },
+  {
+    "name": "A enemigo que huye, puente de plata."
+  },
+  {
+    "name": "A grandes males, grandes remedios."
+  },
+  {
+    "name": "¡Ahí queda eso!"
+  },
+  {
+    "name": "A la cama no te irás sin saber una cosa más."
+  },
+  {
+    "name": "¡A la cárcel todo Cristo!"
+  },
+  {
+    "name": "A la chita callando."
+  },
+  {
+    "name": "A la vejez, viruelas."
+  },
+  {
+    "name": "A mansalva."
+  },
+  {
+    "name": "A Marina duélele el tobillo y sánale el cocodrilo."
+  },
+  {
+    "name": "A más y mejor."
+  },
+  {
+    "name": "A mí, plin, (que soy de Lalín)."
+  },
+  {
+    "name": "A mucha cortesía, mayor cuidado."
+  },
+  {
+    "name": "A ojo de buen cubero."
+  },
+  {
+    "name": "A ojos cerrados."
+  },
+  {
+    "name": "A palo seco."
+  },
+  {
+    "name": "A rajatabla."
+  },
+  {
+    "name": "A regañadientes."
+  },
+  {
+    "name": "A trancas y barrancas."
+  },
+  {
+    "name": "A tutiplén."
+  },
+  {
+    "name": "Acabar como el rosario de la aurora."
+  },
+  {
+    "name": "Acogerse a lo sagrado."
+  },
+  {
+    "name": "Aguantar el chaparrón."
+  },
+  {
+    "name": "Aguantar la marea."
+  },
+  {
+    "name": "Ahogarse en un vaso de agua."
+  },
+  {
+    "name": "Ahora que tengo, todos me dicen: \"Norabuena estéis, Pedro\"."
+  },
+  {
+    "name": "¿Ahora te desayunas?"
+  },
+  {
+    "name": "Ahorcar los hábitos."
+  },
+  {
+    "name": "Al pan, pan y al vino, vino."
+  },
+  {
+    "name": "Allí se me ponga el sol donde me den de cenar vino y jamón."
+  },
+  {
+    "name": "¿A mí con cañas, que soy el padre de las castañas?"
+  },
+  {
+    "name": "Amor con amor se paga."
+  },
+  {
+    "name": "Andar de capa caída."
+  },
+  {
+    "name": "Año nuevo, vida nueva."
+  },
+  {
+    "name": "Armarse un zipizape."
+  },
+  {
+    "name": "Arrieros somos y en el camino nos encontraremos."
+  },
+  {
+    "name": "Bailar al son que le tocan."
+  },
+  {
+    "name": "Bailarle a alguien el agua."
+  },
+  {
+    "name": "Bajo cuerda."
+  },
+  {
+    "name": "Barrer para casa."
+  },
+  {
+    "name": "Beber (o haber bebido) del pilón."
+  },
+  {
+    "name": "Beber los vientos por alguien."
+  },
+  {
+    "name": "Blanco y en botella, leche."
+  },
+  {
+    "name": "Borrón y cuenta nueva."
+  },
+  {
+    "name": "Brillar por su ausencia."
+  },
+  {
+    "name": "Buscar tres pies al gato."
+  },
+  {
+    "name": "Buscarle tres pies al gato."
+  },
+  {
+    "name": "Cada oveja con su pareja."
+  },
+  {
+    "name": "Caer algo por su propio peso."
+  },
+  {
+    "name": "Caer chuzos de punta."
+  },
+  {
+    "name": "Cajón de sastre."
+  },
+  {
+    "name": "Cambiarse las tornas."
+  },
+  {
+    "name": "Campar alguien por sus respetos."
+  },
+  {
+    "name": "Cerrar filas en torno a alguien."
+  },
+  {
+    "name": "Cerrar filas."
+  },
+  {
+    "name": "Cerrarse en banda."
+  },
+  {
+    "name": "Chupar del bote."
+  },
+  {
+    "name": "Chuparle a uno la sangre."
+  },
+  {
+    "name": "Chuparse el dedo."
+  },
+  {
+    "name": "Coger o captar la onda."
+  },
+  {
+    "name": "Coger una mona."
+  },
+  {
+    "name": "Colgar los hábitos."
+  },
+  {
+    "name": "Comer a dos carrillos."
+  },
+  {
+    "name": "Comer como una lima."
+  },
+  {
+    "name": "Comer de gorra."
+  },
+  {
+    "name": "Comer más que un sabañón."
+  },
+  {
+    "name": "Comerse a alguien con los ojos."
+  },
+  {
+    "name": "Comerse el coco."
+  },
+  {
+    "name": "Comerse un marrón."
+  },
+  {
+    "name": "Con diez nobles abuelos no se pone el puchero."
+  },
+  {
+    "name": "Con el amigo incierto."
+  },
+  {
+    "name": "Con el tiempo y una caña, hasta los verdes se alcanzan."
+  },
+  {
+    "name": "Con ese galgo no matarás más liebres."
+  },
+  {
+    "name": "Con hermosura sola no se pone la olla."
+  },
+  {
+    "name": "Con hombre bisojo, ándate con ojo."
+  },
+  {
+    "name": "Con la iglesia hemos topado."
+  },
+  {
+    "name": "Correr ríos de tinta."
+  },
+  {
+    "name": "Cortar por lo sano."
+  },
+  {
+    "name": "Crecerle a uno los enanos."
+  },
+  {
+    "name": "Creer a pies juntillas."
+  },
+  {
+    "name": "Creerse el ombligo del mundo."
+  },
+  {
+    "name": "Cría cuervos y te sacarán los ojos."
+  },
+  {
+    "name": "Cuando las barbas de tu vecino veas pelar, pon las tuyas a remojar."
+  },
+  {
+    "name": "Cuando marzo vuelve el rabo, no queda oveja con pelleja ni pastor desamarrado."
+  },
+  {
+    "name": "Cuando mengua la Luna, no comiences cosa alguna."
+  },
+  {
+    "name": "Cuando menos se espera, salta la liebre."
+  },
+  {
+    "name": "Cuando mi padre de usted me llama, o me va a zurrar, o cerca le anda."
+  },
+  {
+    "name": "Cuando mucho llueve, ¿qué hemos de hacer sino dejarla caer?"
+  },
+  {
+    "name": "Cuando nace la escoba, nace el asno que la roya."
+  },
+  {
+    "name": "Dar el do de pecho."
+  },
+  {
+    "name": "Dar gato por liebre."
+  },
+  {
+    "name": "Dar palos de ciego."
+  },
+  {
+    "name": "Dar quince y raya."
+  },
+  {
+    "name": "Darle a uno las uvas."
+  },
+  {
+    "name": "Darse charol."
+  },
+  {
+    "name": "Darse ínfulas."
+  },
+  {
+    "name": "Dársela a alguien con queso."
+  },
+  {
+    "name": "De (o por) chiripa."
+  },
+  {
+    "name": "De aquellos polvos vienen estos lodos."
+  },
+  {
+    "name": "Designar o elegir algo a dedo."
+  },
+  {
+    "name": "Despacito y buena letra."
+  },
+  {
+    "name": "¡Dichosos los ojos que te ven!"
+  },
+  {
+    "name": "Dime con quién andas y te diré quién eres."
+  },
+  {
+    "name": "Donde las dan, las toman."
+  },
+  {
+    "name": "Donde pensáis hallar tocinos, no hay estacas."
+  },
+  {
+    "name": "Donde una puerta se cierra, otra se abre."
+  },
+  {
+    "name": "Dormir a pierna suelta."
+  },
+  {
+    "name": "Durar más que la obra de El Escorial."
+  },
+  {
+    "name": "Echar en saco roto."
+  },
+  {
+    "name": "Echar leña al fuego."
+  },
+  {
+    "name": "Echar por la borda."
+  },
+  {
+    "name": "Echar un cable."
+  },
+  {
+    "name": "Echar un capote."
+  },
+  {
+    "name": "Echar un jarro de agua fría."
+  },
+  {
+    "name": "Echar una cana al aire."
+  },
+  {
+    "name": "Echar una filípica."
+  },
+  {
+    "name": "Echarle el guante a alguien."
+  },
+  {
+    "name": "El discreto, a nadie fía su secreto."
+  },
+  {
+    "name": "El gusto de la alabanza, a todos alcanza."
+  },
+  {
+    "name": "El hábito no hace al monje."
+  },
+  {
+    "name": "El hombre propone y Dios dispone."
+  },
+  {
+    "name": "El hombre propone y la mujer dispone."
+  },
+  {
+    "name": "Frotarse las manos."
+  },
+  {
+    "name": "Fumar la pipa de la paz."
+  },
+  {
+    "name": "Genio y figura, hasta la sepultura."
+  },
+  {
+    "name": "Guardar como oro en paño."
+  },
+  {
+    "name": "Guardarse las espaldas."
+  },
+  {
+    "name": "Guisárselo y comérselo."
+  },
+  {
+    "name": "Haber corrido mucha agua."
+  },
+  {
+    "name": "Haber de todo como en botica."
+  },
+  {
+    "name": "Hablando del rey de Roma."
+  },
+  {
+    "name": "Hablar (hasta) por los codos."
+  },
+  {
+    "name": "Hablar (o decir) en plata."
+  },
+  {
+    "name": "Hablar en cristiano."
+  },
+  {
+    "name": "Hablar en román paladino."
+  },
+  {
+    "name": "Hablar para el cuello de la camisa."
+  },
+  {
+    "name": "Hacer a alguien una faena."
+  },
+  {
+    "name": "Hacer algo del ala."
+  },
+  {
+    "name": "Hacer buenas migas."
+  },
+  {
+    "name": "Hacer castillos en el aire."
+  },
+  {
+    "name": "Hacer el agosto."
+  },
+  {
+    "name": "Hacer el ganso."
+  },
+  {
+    "name": "Hacer el primo."
+  },
+  {
+    "name": "Hacer leña del árbol caído."
+  },
+  {
+    "name": "Hacer mutis por el foro."
+  },
+  {
+    "name": "Ser el último mono."
+  },
+  {
+    "name": "Ser el vivo retrato de alguien."
+  },
+  {
+    "name": "Ser ley draconiana."
+  },
+  {
+    "name": "Ser o hacer el gamberro."
+  },
+  {
+    "name": "Ser pájaro de mal agüero."
+  },
+  {
+    "name": "Ser un arma de doble filo."
+  },
+  {
+    "name": "Ser un as."
+  },
+  {
+    "name": "Ser un disco rayado."
+  },
+  {
+    "name": "Ser un galimatías."
+  },
+  {
+    "name": "Ser un mecenas."
+  },
+  {
+    "name": "Ser un rollo macabeo."
+  },
+  {
+    "name": "Ser un veleta."
+  },
+  {
+    "name": "Ser una celestina."
+  },
+  {
+    "name": "Ser un quijote."
+  },
+  {
+    "name": "Ser una cosa de antes de la guerra."
+  },
+  {
+    "name": "Ser una fiera corrupta."
+  },
+  {
+    "name": "Servir igual para un roto que para un descosido."
+  },
+  {
+    "name": "Si quieres ser dichoso, sé laborioso."
+  },
+  {
+    "name": "Si sale con barbas, San Antón, y si no la Purísima Concepción."
+  },
+  {
+    "name": "Sin comerlo ni beberlo."
+  },
+  {
+    "name": "Sin oficio ni beneficio."
+  },
+  {
+    "name": "Tanto decís, que creo que mentís."
+  },
+  {
+    "name": "Tanto monta, monta tanto, Isabel como Fernando."
+  },
+  {
+    "name": "Tanto va el cántaro a la fuente, que por fin (al final) se rompe."
+  },
+  {
+    "name": "Tascar el freno."
+  },
+  {
+    "name": "Tener (con alguien) sus más y sus menos."
+  },
+  {
+    "name": "Tener un amor platónico."
+  },
+  {
+    "name": "Tener cabeza de chorlito."
+  },
+  {
+    "name": "Tener duende, tirar de la lengua."
+  },
+  {
+    "name": "Tener la sartén por el mango."
+  },
+  {
+    "name": "Tener las espaldas anchas."
+  }
+]
