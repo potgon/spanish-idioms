@@ -7,16 +7,18 @@ services:
       SPRING_DATASOURCE_URL: ${SPRING_DATASOURCE_URL}
       SPRING_DATASOURCE_USERNAME: ${SPRING_DATASOURCE_USERNAME}
       SPRING_DATASOURCE_PASSWORD: ${SPRING_DATASOURCE_PASSWORD}
+      SPRING_SERVER_ADDRESS: ${SPRING_SERVER_ADDRESS}
       OPENAI_API_KEY: ${OPENAI_API_KEY}
       AI_MODEL: ${AI_MODEL}
       API: ${API}
+      SPRING_NETWORK_PORT: ${SPRING_NETWORK_PORT}
     depends_on:
       - mysql
 
   mysql:
     image: 'mysql:latest'
     volumes:
-      - mysql-data:${DB_DATA_DIR}
+      - spanishidioms_mysql-data:${DB_DATA_DIR}
     environment:
       MYSQL_DATABASE: ${MYSQL_DATABASE}
       MYSQL_PASSWORD: ${SPRING_DATASOURCE_PASSWORD}
@@ -26,4 +28,5 @@ services:
       - ${DATABASE_PORT}
 
 volumes:
-  mysql-data:
+  spanishidioms_mysql-data:
+    external: true
